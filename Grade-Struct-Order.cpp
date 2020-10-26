@@ -2,7 +2,7 @@
 #include <iomanip>
 using namespace std;
 
-//Yun Lin
+
 struct highscore 
 { 
 	int score; 
