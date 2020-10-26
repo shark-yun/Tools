@@ -1,7 +1,4 @@
-// This program tests a password for the American Equities
-// web page to see if the format is correct
 
-// Yun Lin, Songlin Wei
 
 #include <iostream>
 #include <cctype>
